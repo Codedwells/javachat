@@ -1,0 +1,30 @@
+# Build output
+.classpath
+.project
+.settings/
+bin/
+target/
+
+# Logs and temporary files
+*.log
+.tmp/
+
+# IDE-specific files
+.factorypath
+.launch
+
+# Version control metadata
+.git/
+
+# Platform-specific files
+.DS_Store
+
+# Locally managed dependencies (if applicable)
+lib/
+.m2/repository
+
+# Sensitive information (if applicable)
+*.env
+credentials.properties
+
+# Add more patterns as needed
